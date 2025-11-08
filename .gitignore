@@ -1,0 +1,23 @@
+# Arduino project files to ignore
+
+# Build directories
+/build/
+/.build/
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# IDE specific files
+.vscode/
+.settings/
+.idea/
+
+# Other common ignores
+*.swp
+*.DS_Store
